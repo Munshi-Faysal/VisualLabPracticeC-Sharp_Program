@@ -1,0 +1,13 @@
+E:\Visual\Visual Lab Report\Program\Program11\Program11\bin\Debug\netcoreapp3.1\Program11.exe
+E:\Visual\Visual Lab Report\Program\Program11\Program11\bin\Debug\netcoreapp3.1\Program11.deps.json
+E:\Visual\Visual Lab Report\Program\Program11\Program11\bin\Debug\netcoreapp3.1\Program11.runtimeconfig.json
+E:\Visual\Visual Lab Report\Program\Program11\Program11\bin\Debug\netcoreapp3.1\Program11.runtimeconfig.dev.json
+E:\Visual\Visual Lab Report\Program\Program11\Program11\bin\Debug\netcoreapp3.1\Program11.dll
+E:\Visual\Visual Lab Report\Program\Program11\Program11\bin\Debug\netcoreapp3.1\Program11.pdb
+E:\Visual\Visual Lab Report\Program\Program11\Program11\obj\Debug\netcoreapp3.1\Program11.csproj.AssemblyReference.cache
+E:\Visual\Visual Lab Report\Program\Program11\Program11\obj\Debug\netcoreapp3.1\Program11.AssemblyInfoInputs.cache
+E:\Visual\Visual Lab Report\Program\Program11\Program11\obj\Debug\netcoreapp3.1\Program11.AssemblyInfo.cs
+E:\Visual\Visual Lab Report\Program\Program11\Program11\obj\Debug\netcoreapp3.1\Program11.csproj.CoreCompileInputs.cache
+E:\Visual\Visual Lab Report\Program\Program11\Program11\obj\Debug\netcoreapp3.1\Program11.dll
+E:\Visual\Visual Lab Report\Program\Program11\Program11\obj\Debug\netcoreapp3.1\Program11.pdb
+E:\Visual\Visual Lab Report\Program\Program11\Program11\obj\Debug\netcoreapp3.1\Program11.genruntimeconfig.cache

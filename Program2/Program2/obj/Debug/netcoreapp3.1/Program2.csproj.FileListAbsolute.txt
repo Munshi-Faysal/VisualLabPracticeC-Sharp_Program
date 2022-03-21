@@ -1,0 +1,13 @@
+E:\Visual\Visual Lab Report\Program\Program2\Program2\bin\Debug\netcoreapp3.1\Program2.exe
+E:\Visual\Visual Lab Report\Program\Program2\Program2\bin\Debug\netcoreapp3.1\Program2.deps.json
+E:\Visual\Visual Lab Report\Program\Program2\Program2\bin\Debug\netcoreapp3.1\Program2.runtimeconfig.json
+E:\Visual\Visual Lab Report\Program\Program2\Program2\bin\Debug\netcoreapp3.1\Program2.runtimeconfig.dev.json
+E:\Visual\Visual Lab Report\Program\Program2\Program2\bin\Debug\netcoreapp3.1\Program2.dll
+E:\Visual\Visual Lab Report\Program\Program2\Program2\bin\Debug\netcoreapp3.1\Program2.pdb
+E:\Visual\Visual Lab Report\Program\Program2\Program2\obj\Debug\netcoreapp3.1\Program2.csproj.AssemblyReference.cache
+E:\Visual\Visual Lab Report\Program\Program2\Program2\obj\Debug\netcoreapp3.1\Program2.AssemblyInfoInputs.cache
+E:\Visual\Visual Lab Report\Program\Program2\Program2\obj\Debug\netcoreapp3.1\Program2.AssemblyInfo.cs
+E:\Visual\Visual Lab Report\Program\Program2\Program2\obj\Debug\netcoreapp3.1\Program2.csproj.CoreCompileInputs.cache
+E:\Visual\Visual Lab Report\Program\Program2\Program2\obj\Debug\netcoreapp3.1\Program2.dll
+E:\Visual\Visual Lab Report\Program\Program2\Program2\obj\Debug\netcoreapp3.1\Program2.pdb
+E:\Visual\Visual Lab Report\Program\Program2\Program2\obj\Debug\netcoreapp3.1\Program2.genruntimeconfig.cache

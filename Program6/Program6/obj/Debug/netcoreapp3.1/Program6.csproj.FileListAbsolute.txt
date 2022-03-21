@@ -1,0 +1,12 @@
+E:\Visual\Program6\Program6\bin\Debug\netcoreapp3.1\Program6.exe
+E:\Visual\Program6\Program6\bin\Debug\netcoreapp3.1\Program6.deps.json
+E:\Visual\Program6\Program6\bin\Debug\netcoreapp3.1\Program6.runtimeconfig.json
+E:\Visual\Program6\Program6\bin\Debug\netcoreapp3.1\Program6.runtimeconfig.dev.json
+E:\Visual\Program6\Program6\bin\Debug\netcoreapp3.1\Program6.dll
+E:\Visual\Program6\Program6\bin\Debug\netcoreapp3.1\Program6.pdb
+E:\Visual\Program6\Program6\obj\Debug\netcoreapp3.1\Program6.AssemblyInfoInputs.cache
+E:\Visual\Program6\Program6\obj\Debug\netcoreapp3.1\Program6.AssemblyInfo.cs
+E:\Visual\Program6\Program6\obj\Debug\netcoreapp3.1\Program6.csproj.CoreCompileInputs.cache
+E:\Visual\Program6\Program6\obj\Debug\netcoreapp3.1\Program6.dll
+E:\Visual\Program6\Program6\obj\Debug\netcoreapp3.1\Program6.pdb
+E:\Visual\Program6\Program6\obj\Debug\netcoreapp3.1\Program6.genruntimeconfig.cache
